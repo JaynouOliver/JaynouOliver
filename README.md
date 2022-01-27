@@ -40,10 +40,16 @@
 <a href= https://www.w3schools.com/html/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/html-5--v1.png'> </a>
 <a href= https://www.w3schools.com/css/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/css3.png'> </a>
 <a href= https://www.w3schools.com/css/><img width ='40px' src ='https://img.icons8.com/color/144/000000/javascript--v1.png'> </a>
-<a href= https://code.visualstudio.com/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/visual-studio-code-2019.png'> </a>
-<a href= https://www.jetbrains.com/idea/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/intellij-idea.png'> </a>
+<a href= https://www.geeksforgeeks.org/java/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/bootstrap.png'> </a>
+<a href= https://www.geeksforgeeks.org/java/> <img width ='40px' src ='https://img.icons8.com/ios-filled/150/000000/jquery.png'> </a>
+<a href= https://www.geeksforgeeks.org/java/> <img width ='40px' src ='https://img.icons8.com/ios-filled/100/000000/command-line.png'> </a>
+<a href= https://www.linux.org/> <img width ='40px' src ='https://img.icons8.com/fluency/144/000000/node-js.png'> </a>
+<a href= https://www.linux.org/> <img width ='40px' src ='https://img.icons8.com/nolan/64/api-settings.png'> </a>
+<a href= https://www.linux.org/> <img width ='40px' src ='https://img.icons8.com/ios-filled/50/000000/sql.png'> </a>
+<a href= https://www.linux.org/> <img width ='40px' src ='https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png'> </a>
+<a href= https://www.linux.org/> <img width ='40px' src ='https://img.icons8.com/officel/160/000000/react.png'> </a>
+<a href= https://www.linux.org/> <img width ='40px' src ='https://img.icons8.com/external-prettycons-lineal-color-prettycons/98/000000/external-databases-web-seo-prettycons-lineal-color-prettycons.png'> </a>
 <a href= https://www.linux.org/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/linux--v1.png'> </a>
-<a href= https://www.apple.com/in/macos> <img width ='40px' src ='https://img.icons8.com/ios-glyphs/144/000000/mac-client.png'> </a>
 <a href= https://www.microsoft.com/en-in/windows> <img width ='40px' src ='https://img.icons8.com/fluency/144/000000/windows-10.png'> </a>
 <a href= https://git-scm.com/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/git.png'> </a>
 <a href= https://www.docker.com/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/docker.png'> </a>
