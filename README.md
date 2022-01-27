@@ -35,6 +35,7 @@
 <h1> Skills :-</h1>
 
 <a href= https://www.geeksforgeeks.org/java/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/java-coffee-cup-logo--v1.png'> </a>
+<a href= https://www.geeksforgeeks.org/java/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/python--v1.png'> </a>
 <a href= https://www.geeksforgeeks.org/c-programming-language/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/c-programming.png'> </a>
 <a href= https://www.geeksforgeeks.org/c-plus-plus/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/c-plus-plus-logo.png'> </a>
 <a href= https://www.w3schools.com/html/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/html-5--v1.png'> </a>
