@@ -4,17 +4,17 @@
 
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">I'm [Subhro !](https://github.com/JaynouOliver) 
 
-<a href="https://www.linkedin.com/in/ronitbanerjee/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+<a href="https://www.linkedin.com/in/subhrakamal/">
+  <img align="left" width="24px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"  />
 </a>
 <a href="https://twitter.com/DasSubhrakamal">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" width="26px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-twitter-social-media-justicon-lineal-color-justicon.png" />
 </a>
-<a href="mailto:ronitbanerjee03@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+<a href="mailto: Subhrokomol@outloook.com">
+  <img align="left" width="26px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-gmail-social-media-justicon-lineal-color-justicon.png" />
 </a>
 <a href="https://www.instagram.com/coded_subhro/">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" width="26px" src="https://img.icons8.com/stickers/100/000000/instagram-new--v2.png" />
 </a>
 
 <br />
@@ -22,18 +22,24 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=JaynouOliver.JaynouOliver)
 
-- 🌱 I’m currently learning Data Structures & Algorithms and DevOps Practices
-- 📫 How to reach me **Subhrokomol@outlook.com**
+👉  I am the Founder of Tech Squad, a Community of Computer Aspirants I started in Oct 2021 with Raja Majumdar, Ronit Banarjee, and Kaustav Chatterjee. We have worked in various Hackathons and organized webinars and workshops to educate people about the opportunities in Open Source.
 
-- ⚡ Fun fact :- Football and Photography are the reasons to live.
+👉  I have learned MERN stack web development.
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+👉  I am also a Machine Learning Enthusiast and Cyber Security Enthusiast.
+
+👉 📫 How to reach me **Subhrokomol@outlook.com**
+
+👉 ⚡ Fun fact :- Life is hard, save your tears for another day.
+
+<h1> Skills :-</h1>
 
 <a href= https://www.geeksforgeeks.org/java/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/java-coffee-cup-logo--v1.png'> </a>
 <a href= https://www.geeksforgeeks.org/c-programming-language/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/c-programming.png'> </a>
 <a href= https://www.geeksforgeeks.org/c-plus-plus/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/c-plus-plus-logo.png'> </a>
 <a href= https://www.w3schools.com/html/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/html-5--v1.png'> </a>
 <a href= https://www.w3schools.com/css/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/css3.png'> </a>
+<a href= https://www.w3schools.com/css/><img width ='40px' src ='https://img.icons8.com/color/144/000000/javascript--v1.png'> </a>
 <a href= https://code.visualstudio.com/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/visual-studio-code-2019.png'> </a>
 <a href= https://www.jetbrains.com/idea/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/intellij-idea.png'> </a>
 <a href= https://www.linux.org/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/linux--v1.png'> </a>
