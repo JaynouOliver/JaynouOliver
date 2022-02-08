@@ -59,7 +59,7 @@
 
 
 
-[![Ronit's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JaynouOliver&theme=tokyonight)](https://github.com/JaynouOliver?tab=repositories)
+[![Subhro's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JaynouOliver&theme=tokyonight)](https://github.com/JaynouOliver?tab=repositories)
 
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
