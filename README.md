@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=39ff14&center=true&lines=Community + Manager;Machine+Learning+Enthusiast;Open+Source+Contributor;Mentor+in+Web+Development(MERN)!&center=true&width=380&height=45"/><br>
+  <img src="https://readme-typing-svg.herokuapp.com?color=39ff14&center=true&lines=Community+Manager;Machine+Learning+Enthusiast;Open+Source+Contributor;Mentor+in+Web+Development(MERN)!&center=true&width=380&height=45"/><br>
  <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
 </p>
 
