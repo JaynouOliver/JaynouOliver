@@ -1,10 +1,21 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Subhro's+GitHub+Profile!)](https://git.io/typing-svg)
+<h1 align="center">Hi, everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<h1 align="center">Hi, I'm Subhro <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">A passionate developer from India</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+my+GitHub+Profile!)](https://git.io/typing-svg)
+
+
+<div align = 'center'>
+ <img src = "https://capsule-render.vercel.app/api?type=transparent&fontColor=ff0073&fontStyle=samakaran&text=Subhrakamal%20Das&height=150&fontSize=80&desc=Hooghly,%20IN&descAlignY=75&descAlign=82.4"/></div>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=39ff14&center=true&lines=Community + Manager;Machine+Learning+Enthusiast;Open+Source+Contributor;Mentor+in+Web+Development(MERN)!&center=true&width=380&height=45"/><br>
+ <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
+</p>
+
 <img src="https://raw.githubusercontent.com/helper-uttam/helper-uttam/main/header_.png">
 
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">I'm [Subhro !](https://github.com/JaynouOliver) 
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">Feel free to [connect](https://github.com/JaynouOliver) 
 
 <a href="https://www.linkedin.com/in/subhrakamal/">
   <img align="left" width="24px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"  />
@@ -22,7 +33,7 @@
 <br />
 <br />
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=JaynouOliver.JaynouOliver)
+
 
 👉  I am the Founder of Tech Squad, a Community of Computer Aspirants I started in Oct 2021 with Raja Majumdar, Ronit Banarjee, and Kaustav Chatterjee. We have worked in various Hackathons and organized webinars and workshops to educate people about the opportunities in Open Source.
 
@@ -57,24 +68,35 @@
 <a href= https://git-scm.com/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/git.png'> </a>
 <a href= https://www.docker.com/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/docker.png'> </a>
 
-
-
-[![Subhro's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JaynouOliver&theme=tokyonight)](https://github.com/JaynouOliver?tab=repositories)
-
-<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
-
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=JaynouOliver&show_icons=true&locale=en&layout=compact"
-    alt="JaynouOliver" /></p>
-
+<br>
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JaynouOliver&show_icons=true&locale=en"
-    alt="JaynouOliver" /></p>
 
+[![Subhrakamal's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JaynouOliver&theme=xcode)](https://github.com/JaynouOliver)
 <br>
+
+
+<div align = "center">
+<div align= "center"><img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=JaynouOliver&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center"/></div>
+
+<div align="center">
+
+
+
+
+<img align="centre" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JaynouOliver&" alt="JaynouOliver" /></p>
 
 <br>
+
+
+<div align = "center">
+ 
+**Visitors Count**  
+![VisitorCount](https://profile-counter.glitch.me/{abhisheks008}/count.svg)
+
+</div>
+
+### Show some ❤️ by starring some of the repositories!
