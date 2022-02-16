@@ -18,22 +18,24 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">Feel free to [connect](https://github.com/JaynouOliver) 
 
 <a href="https://www.linkedin.com/in/subhrakamal/">
-  <img align="left" width="24px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"  />
+  <img align="left" width="24px" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png"  />
 </a>
 <a href="https://twitter.com/DasSubhrakamal">
-  <img align="left" width="26px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-twitter-social-media-justicon-lineal-color-justicon.png" />
+  <img align="left" width="26px" src="https://img.icons8.com/fluency/144/000000/twitter.png" />
 </a>
 <a href="mailto: Subhrokomol@outloook.com">
-  <img align="left" width="26px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-gmail-social-media-justicon-lineal-color-justicon.png" />
+  <img align="left" width="26px" src="https://img.icons8.com/color/144/000000/gmail-new.png" />
 </a>
 <a href="https://www.instagram.com/coded_subhro/">
-  <img align="left" width="26px" src="https://img.icons8.com/stickers/100/000000/instagram-new--v2.png" />
+  <img align="left" width="26px" src="https://img.icons8.com/fluency/144/000000/instagram-new.png" />
 </a>
 
 <br />
 <br />
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
 👉  I am the Founder of Tech Squad, a Community of Computer Aspirants I started in Oct 2021 with Raja Majumdar, Ronit Banarjee, and Kaustav Chatterjee. We have worked in various Hackathons and organized webinars and workshops to educate people about the opportunities in Open Source.
 
@@ -82,12 +84,10 @@
 
 <div align="center">
 
+<br>
+<img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JaynouOliver&theme=dracula" alt="JaynouOliver"/>
 
-
-
-<img align="centre" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
-
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JaynouOliver&" alt="JaynouOliver" /></p>
 
 <br>
