@@ -47,6 +47,7 @@
 👉 📫 How to reach me **Subhrokomol@outlook.com**
 
 👉 ⚡ Fun fact :- I will surely fix the code one way or the other!
+<br>
 ![Alt Text](https://media.giphy.com/media/iVDo6InQKyW8o/giphy.gif)
 
 <h1> Skills :-</h1>
