@@ -37,6 +37,7 @@
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
+
 👉  I am the Founder of Tech Squad, a Community of Computer Aspirants I started in Oct 2021 with Raja Majumdar, Ronit Banarjee, and Kaustav Chatterjee. We have worked in various Hackathons and organized webinars and workshops to educate people about the opportunities in Open Source.
 
 👉  I have learned MERN stack web development.
@@ -45,7 +46,8 @@
 
 👉 📫 How to reach me **Subhrokomol@outlook.com**
 
-👉 ⚡ Fun fact :- Life is hard, save your tears for another day.
+👉 ⚡ Fun fact :- I will surely fix the code one way or the other!
+![Alt Text](https://media.giphy.com/media/iVDo6InQKyW8o/giphy.gif)
 
 <h1> Skills :-</h1>
 
