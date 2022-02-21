@@ -84,8 +84,7 @@
 
 <div align="center">
 
-<br>
-<img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JaynouOliver&theme=dracula" alt="JaynouOliver"/>
+
 
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JaynouOliver&" alt="JaynouOliver" /></p>
