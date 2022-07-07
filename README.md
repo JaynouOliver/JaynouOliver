@@ -1,4 +1,4 @@
-<h1 align="center">Hi, everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hi, everyone! </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+my+GitHub+Profile!)](https://git.io/typing-svg)
 
@@ -10,8 +10,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=39ff14&center=true&lines=Community+Manager;Machine+Learning+Enthusiast;Open+Source+Contributor;Mentor+in+Web+Development(MERN)!&center=true&width=380&height=45"/><br>
  <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
 </p>
-
-<img src="https://raw.githubusercontent.com/helper-uttam/helper-uttam/main/header_.png">
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">Feel free to [connect](https://github.com/JaynouOliver) 
 
