@@ -11,7 +11,7 @@
  
 </p>
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">Feel free to [connect](https://github.com/JaynouOliver) 
+## Feel free to [connect](https://github.com/JaynouOliver) 
 
 <a href="https://www.linkedin.com/in/subhrakamal/">
   <img align="left" width="24px" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png"  />
