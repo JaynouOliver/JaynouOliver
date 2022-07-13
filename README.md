@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+my+GitHub+Profile!)](https://git.io/typing-svg)
 
 <div align = 'center'>
- <img src = "https://capsule-render.vercel.app/api?type=transparent&fontColor=ff0073&fontStyle=samakaran&text=Subhrakamal%20Das&height=150&fontSize=80&desc=Hooghly,%20IN&descAlignY=75&descAlign=82.4"/></div>
+ <img src = "https://capsule-render.vercel.app/api?type=transparent&fontColor=ff0073&fontStyle=samakaran&text=Subhrokomol%20Das&height=150&fontSize=80&desc=Hooghly,%20IN&descAlignY=75&descAlign=82.4"/></div>
 
 
 <p align="center">
