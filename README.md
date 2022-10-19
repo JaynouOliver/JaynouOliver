@@ -33,8 +33,6 @@
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
-👉  I am the Founder of Tech Squad, a Community of Computer Aspirants I started in Oct 2021 with Raja Majumdar, Ronit Banarjee, and Kaustav Chatterjee. We have worked in various Hackathons and organized webinars and workshops to educate people about the opportunities in Open Source.
-
 👉  I have learned MERN stack web development.
 
 👉  I am also a Machine Learning Enthusiast and Cyber Security Enthusiast.
