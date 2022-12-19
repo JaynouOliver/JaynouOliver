@@ -13,16 +13,16 @@
 
 ## Feel free to [connect](https://github.com/JaynouOliver) 
 
-<a href="https://www.linkedin.com/in/subhrakamal/">
+<a href="https://www.linkedin.com/in/subhrokomol/">
   <img align="left" width="24px" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png"  />
 </a>
-<a href="https://twitter.com/DasSubhrakamal">
+<a href="https://twitter.com/subhrokomol">
   <img align="left" width="26px" src="https://img.icons8.com/fluency/144/000000/twitter.png" />
 </a>
 <a href="mailto: Subhrokomol@outloook.com">
   <img align="left" width="26px" src="https://img.icons8.com/color/144/000000/gmail-new.png" />
 </a>
-<a href="https://www.instagram.com/coded_subhro/">
+<a href="https://www.instagram.com/subhros_story/">
   <img align="left" width="26px" src="https://img.icons8.com/fluency/144/000000/instagram-new.png" />
 </a>
 
