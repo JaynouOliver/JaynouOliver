@@ -43,27 +43,14 @@
 
 <h1> Skills :-</h1>
 
-<a href= https://www.geeksforgeeks.org/java/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/java-coffee-cup-logo--v1.png'> </a>
-<a href= https://www.geeksforgeeks.org/java/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/python--v1.png'> </a>
-<a href= https://www.geeksforgeeks.org/c-programming-language/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/c-programming.png'> </a>
-<a href= https://www.geeksforgeeks.org/c-plus-plus/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/c-plus-plus-logo.png'> </a>
-<a href= https://www.w3schools.com/html/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/html-5--v1.png'> </a>
-<a href= https://www.w3schools.com/css/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/css3.png'> </a>
-<a href= https://www.w3schools.com/css/><img width ='40px' src ='https://img.icons8.com/color/144/000000/javascript--v1.png'> </a>
-<a href= https://www.w3schools.com/css/><img width ='40px' src ='https://image.pngaaa.com/388/3920388-middle.png'> </a>
-<a href= https://www.geeksforgeeks.org/java/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/bootstrap.png'> </a>
-<a href= https://www.geeksforgeeks.org/java/> <img width ='40px' src ='https://img.icons8.com/ios-filled/150/000000/jquery.png'> </a>
-<a href= https://www.geeksforgeeks.org/java/> <img width ='40px' src ='https://img.icons8.com/ios-filled/100/000000/command-line.png'> </a>
-<a href= https://www.linux.org/> <img width ='40px' src ='https://img.icons8.com/fluency/144/000000/node-js.png'> </a>
-<a href= https://www.linux.org/> <img width ='40px' src ='https://img.icons8.com/nolan/64/api-settings.png'> </a>
-<a href= https://www.linux.org/> <img width ='40px' src ='https://img.icons8.com/ios-filled/50/000000/sql.png'> </a>
-<a href= https://www.linux.org/> <img width ='40px' src ='https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png'> </a>
-<a href= https://www.linux.org/> <img width ='40px' src ='https://img.icons8.com/officel/160/000000/react.png'> </a>
-<a href= https://www.linux.org/> <img width ='40px' src ='https://img.icons8.com/external-prettycons-lineal-color-prettycons/98/000000/external-databases-web-seo-prettycons-lineal-color-prettycons.png'> </a>
-<a href= https://www.linux.org/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/linux--v1.png'> </a>
-<a href= https://www.microsoft.com/en-in/windows> <img width ='40px' src ='https://img.icons8.com/fluency/144/000000/windows-10.png'> </a>
-<a href= https://git-scm.com/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/git.png'> </a>
-<a href= https://www.docker.com/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/docker.png'> </a>
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,cpp,java,nodejs,figma,html,css,js,bootstrap,aws,gcp,react,nextjs,tensorflow,pytorch,prometheus,mysql,mongodb,matlab,julia,jenkins,heroku,haskell, graphql, gitlab, github, flask, express, electron, dynamodb,cassandra,visualstudio,wordpress,wordpress,stackoverflow,sqlite,sqlite,redis,redis,vim" />
+  </a>
+</p>
+
 
 <br>
 <br>
@@ -73,17 +60,10 @@
 <br>
 
 
-<div align = "center">
-<div align= "center"><img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=JaynouOliver&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center"/></div>
-
-<div align="center">
+![github-wrapped (1)](https://user-images.githubusercontent.com/88646338/208437080-b70ac74a-dedf-428a-91c6-6131acb3108c.png)
 
 
 
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JaynouOliver&" alt="JaynouOliver" /></p>
-
-<br>
 
 
 <div align = "center">
