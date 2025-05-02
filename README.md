@@ -11,7 +11,7 @@ I'm active on [twitter](https://x.com/SuvrakamalD)
 mentored and have spoken in various conferences and hackathons. 
 
 Business Experience  - 
-I was part of [Projectx.cloud](https://www.projectx.cloud/)(now exited), used to handle tech and finance, we were trying to build OS where apps runs as microservices. I lot of learnings in my life came from managing my own startup, seeing it grow from start to end. 
+I was Cofounder of [Projectx.cloud](https://www.projectx.cloud/)(now exited), used to handle tech and finance, we were trying to build OS where apps runs as microservices. I lot of learnings in my life came from managing my own startup, seeing it grow from start to end. 
 
 Currently Building 
 
